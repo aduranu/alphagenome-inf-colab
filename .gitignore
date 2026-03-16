@@ -1,0 +1,15 @@
+.env
+__pycache__/
+*.pyc
+
+# Reference/scratch files (not part of the notebook)
+AlphaFold2.ipynb
+GOOGLE_STYLE.md
+MY_STYLE.md
+shuffles.py
+style_example_dna_client_deepmind.py
+
+# Module source files (now embedded in the notebook)
+setup_alphagenome.py
+creme_alphagenome.py
+creme_plotting.py
